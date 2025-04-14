@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Student_Attendance_System
 =======
 # Student Attendance System
 
@@ -109,8 +107,3 @@ The GUI provides an intuitive interface with the following key panels:
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
->>>>>>> aee4842 (Face Recognition)

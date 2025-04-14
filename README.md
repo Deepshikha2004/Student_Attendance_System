@@ -1,4 +1,4 @@
-=======
+
 # Student Attendance System
 
 ## Overview
